@@ -1,0 +1,18 @@
+#root {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2rem;
+  color: black;
+}
+.header{
+  background-color: aliceblue;
+  height: 50px;
+}
+.content{
+  background-color: antiquewhite;
+  height: 200px;
+}
+.footer{
+  background-color: aliceblue;
+  height: 50px;
+}
