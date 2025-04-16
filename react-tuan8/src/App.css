@@ -4,12 +4,6 @@
   padding: 2rem;
   color: black;
 }
-.header{
-  background-color: aliceblue;
-}
-.content{
-  background-color: antiquewhite;
-}
-.footer{
-  background-color: aliceblue;
+.banner{
+  width: 100%;
 }

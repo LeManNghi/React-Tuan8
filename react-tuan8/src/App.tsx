@@ -5,6 +5,7 @@ import './App.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Banner from './components/Banner'
+import ThisSummerRecipes from './components/ThisSummerRecipes'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,10 +16,11 @@ function App() {
         <div className='header'>
           <Header/>
         </div>
-        <div className='content'>
-          <div className='banner'>
-            <Banner/>
-          </div>
+        <div className='banner'>
+          <Banner/>
+        </div>
+        <div className='this-summer-recipes'>
+          <ThisSummerRecipes/>
         </div>
         <div className='footer'>
           <Footer/>

@@ -4,7 +4,6 @@
     position: relative; /* Để định vị tuyệt đối cho background */
     width: 100%; /* Chiếm toàn bộ chiều rộng */
     height: 800px; /* Chiều cao của banner */
-    overflow: hidden; /* Ẩn các phần tử con tràn ra ngoài */
   }
   
 .banner-background {
