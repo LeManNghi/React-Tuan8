@@ -12,24 +12,25 @@ export default function Footer() {
           <button className="newsletter-button">Send</button>
         </div>
       </div>
-        <div>
-            <div className="footer-section learn-more">
-            <h3>Learn More</h3>
-            <ul>
-            <li><a href="#">Our Cooks</a></li>
-            <li><a href="#">See Our Features</a></li>
-            <li><a href="#">FAQ</a></li>
-            </ul>
+      <div></div>
+      <div>
+        <div className="footer-section learn-more">
+          <h3>Learn More</h3>
+          <ul>
+          <li><a href="#">Our Cooks</a></li>
+          <li><a href="#">See Our Features</a></li>
+          <li><a href="#">FAQ</a></li>
+          </ul>
         </div>
 
         <div className="footer-section shop">
-            <h3>Shop</h3>
-            <ul>
-            <li><a href="#">Gift Subscription</a></li>
-            <li><a href="#">Send Us Feedback</a></li>
-            </ul>
+          <h3>Shop</h3>
+          <ul>
+          <li><a href="#">Gift Subscription</a></li>
+          <li><a href="#">Send Us Feedback</a></li>
+          </ul>
         </div>
-        </div>
+      </div>
       <div className="footer-section recipes">
         <h3>Recipes</h3>
         <ul>
